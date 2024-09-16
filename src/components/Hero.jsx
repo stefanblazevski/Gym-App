@@ -18,9 +18,12 @@ export default function Hero() {
         <span className="text-blue-400 font-medium">boosted confidence</span>,
         and an uncontrollable urge to flex in every mirror you pass.
       </p>
-      <Button func={()=>{
-        window.location.href = '#generate'
-      }} text={"Accept & Begin"} />
+      <Button
+        func={() => {
+          window.location.href = "#generate";
+        }}
+        text={"Accept & Begin"}
+      />
     </div>
   );
 }
