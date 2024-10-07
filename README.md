@@ -1,2 +1,2 @@
 # Power Pursuit
-### https://powerpursuit.netlify.app/#workout
+### https://powerpursuit.netlify.app
